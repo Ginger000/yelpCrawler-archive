@@ -3,7 +3,7 @@
 This yelpCrawler is a stand-alone executable python program/file for crawl data from the whole
 Stockholm county. I developed this tool at 2020 and the purpose is to enable everyone in the research team could contribute crawling data even though they can't use python at all. The instruction below is also for laymen users.
 
-You don’t have to have python installed or learn how to use python.
+**You don’t have to have python installed or learn how to use python.**
 
 
 This program currently only can be run on the Windows system. If you use OS X or Linux,
