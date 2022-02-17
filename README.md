@@ -35,26 +35,26 @@ Then, please open this “Dist” folder.
 
 Then, please open “yelpCrawler” folder
 
-![](instruction-img/Instruction_3.png)
+![](instruction-img/instruction_3.png)
 
 Then double click “yelpCrawler.exe” to run it.
 
-![](instruction-img/Instruction_4.png)
+![](instruction-img/instruction_4.png)
 
-### Run it. Type your own API KEY and the number of stockholm csv file.
+### 3 Run it. Type your own API KEY and the number of stockholm csv file.
 
 Please copy and past you API Key to the command line window, and press “Enter”.
-![](instruction-img/Instruction_5.png)
+![](instruction-img/instruction_5.png)
 
-![](instruction-img/Instruction_6.png)
+![](instruction-img/instruction_6.png)
 
 And type the Zone Index, which is the number of the CSV file you are responsible to crawl.
 
-![](instruction-img/Instruction_7.png)
+![](instruction-img/instruction_7.png)
 
-![](instruction-img/Instruction_8.png)
+![](instruction-img/instruction_8.png)
 
-![](instruction-img/Instruction_9.png)
+![](instruction-img/instruction_9.png)
 
 
 If you start crawling data successfully, you will see the a new csv file with a suffix “_businesses”
@@ -62,7 +62,7 @@ showing up.
 
 ### 4, Please keep an eye on the number of your remaining API call
 
-![](instruction-img/Instruction_10.png)
+![](instruction-img/instruction_10.png)
 
 You need to make sure your remain API calls is over 4900 before you start using this program
 because the for each central point CSV file requires around 4800-4900 request to finish all the
