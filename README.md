@@ -68,3 +68,6 @@ You need to make sure your remain API calls is over 4900 before you start using 
 because the for each central point CSV file requires around 4800-4900 request to finish all the
 crawling. If your remaining API calls are less than 4900, please wait until the next day when you
 have a new 5000 remaining calls, or register a new yelp account.
+
+![](instruction-img/instruction_11.png)
+The img above is the GIS mapping of crawled data
